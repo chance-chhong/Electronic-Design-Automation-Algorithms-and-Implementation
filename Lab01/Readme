@@ -1,0 +1,4 @@
+1.  編譯(可以直接打make)
+g++ lab1.cpp -o Lab1
+2.  執行
+./Lab1 input.hgr
