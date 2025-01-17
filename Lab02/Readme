@@ -1,0 +1,4 @@
+1.  編譯(可以直接打make)
+g++ -pedantic -Wall -fomit-frame-pointer -funroll-all-loops -O3 Lab2.cpp -o Lab2
+2.  執行
+./Lab2 case.in case.out
