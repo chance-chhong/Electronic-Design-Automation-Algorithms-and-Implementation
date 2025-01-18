@@ -2,3 +2,5 @@
 g++ lab1.cpp -o Lab1
 2.  執行
 ./Lab1 input.hgr
+3.  驗證
+./verifier input.hgr output.txt

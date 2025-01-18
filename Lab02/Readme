@@ -2,3 +2,5 @@
 g++ -pedantic -Wall -fomit-frame-pointer -funroll-all-loops -O3 Lab2.cpp -o Lab2
 2.  執行
 ./Lab2 case.in case.out
+3.  驗證
+./draw case.in case.out
