@@ -1,0 +1,19 @@
+--How to Compile
+    In this directory, enter the following command:
+    $ make
+    It will generate the executable file "cadb0030_alpha" in the same directory.
+
+    If you want to remove it ,its .o files, and other placement files, please enter the following command:
+    $ make clean
+
+--How to Run
+    In this directory, enter the following command:
+    Usage: ./<exe>  <input file>  <output file>
+    e.g.:
+    $ ./cadb0030_alpha input.txt output.txt 
+	
+--How to Verify
+	In this directory, enter the following command:
+    Usage: ./<exe>  <input file>  <output file>
+    e.g.:
+    $ ./ProblemB_evaluator_20230418 input.txt output.txt
